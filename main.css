@@ -1,0 +1,50 @@
+body{
+    font-family: 'Comfortaa', cursive;
+    margin: 0px;
+    background: #eee;
+}
+
+#wrapper{
+    background: #fff;
+    margin: 0.5em auto;
+    width: 90%;
+}
+
+#main-navigation{
+    background: #8b0000;
+}
+
+#main-navigation ul{
+    padding: 1em;
+    text-align: right;
+}
+
+#main-navigation li{
+    display: inline-block;
+    padding: 0.25em;
+    margin: 0.02em;
+}
+
+#main-navigation a{
+    text-decoration: none;
+    color: darkgoldenrod;
+    font-size: 1em;
+}
+
+#main-navigation a.current{
+    color: white;
+    font-size: 1.5em;
+    letter-spacing: 0.1em;
+    margin: 0.5em;
+}
+
+#lead-banner img{
+    width: 100%;
+    height: 2%;
+}
+
+
+
+
+
+
