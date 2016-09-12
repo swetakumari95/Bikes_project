@@ -52,7 +52,7 @@ body{
 
 #shop img.product-image{
     width: 22em;
-    border: 1px solid #8b0000;
+    border: 2px solid #8b0000;
 }
 
 #shop h2.product-name{
@@ -73,6 +73,7 @@ body{
     color: #8b0000;
     padding: 0.3em 0px;
     border: 2px solid #8b0000;
+    margin: 1px auto;
     width: 11em;
     box-shadow: 2px 2px 2px 2px #aaa;
 }
