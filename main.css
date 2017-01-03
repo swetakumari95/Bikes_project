@@ -6,8 +6,8 @@ body{
 
 #wrapper{
     background: #fff;
-    margin: 0.5em auto;
-    width: 90%;
+    margin: 0em auto;
+    width: 60%;
 }
 
 #main-navigation{
@@ -76,6 +76,7 @@ body{
     margin: 1px auto;
     width: 11em;
     box-shadow: 2px 2px 2px 2px #aaa;
+    //transition: all .3s ease;
 }
 
 #shop a.add-to-bag:hover{
@@ -84,8 +85,12 @@ body{
     box-shadow: 2px 2px 2px 2px #fff;
 }
 
+#shop img.rating{
+    margin: 0.5em;
+}
+
 #footer{
-    background: #8b0000;
+    background: ;
 }
 
 #footer h4{
